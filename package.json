@@ -1,0 +1,22 @@
+{
+  "name": "eateasy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scss": "node-sass --watch scss -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manuel-Jaibo/control.homework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manuel-Jaibo/control.homework/issues"
+  },
+  "homepage": "https://github.com/Manuel-Jaibo/control.homework#readme",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
